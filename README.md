@@ -1,8 +1,9 @@
 # Travel Website
 *A modern and responsive fitness website project.*
 
-![view1](assets/images/banner2@2x.jpg)
-![view2](assets/images/slider82x-scaled.jpg)
+![view1](assets/images/sc1.png)
+![view2](assets/images/sc2.png)
+![view2](assets/images/sc3.png)
 
 [Demo Project](https://zarimovahedi-dev.github.io/travel/)
 
